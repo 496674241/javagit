@@ -5,4 +5,4 @@ four
 five
 six
 seven
-
+Creating a new branch is quick & simple.
